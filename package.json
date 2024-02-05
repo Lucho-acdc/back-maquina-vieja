@@ -5,5 +5,5 @@
     },
     "scripts": {
         "start": "nodemon src/main.js"
-      }
+    }
 }
